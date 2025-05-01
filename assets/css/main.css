@@ -72,6 +72,15 @@ input, select, textarea {
 	appearance: none;
 }
 
+.word-box {
+  display: inline-block;
+  border: 2px solid black;
+  padding: 4px 8px;
+  margin: 4px;
+  border-radius: 4px; 
+  background-color: white; 
+}
+
 /* Basic */
 
 	html {
