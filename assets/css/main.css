@@ -2143,8 +2143,8 @@ input, select, textarea {
 			}
 
 		.image.avatar {
-			width: 300px !important;
-			height: 300px !important;
+			width: 200px !important;
+			height: 200px !important;
 			border-radius: 50% !important;
 			overflow: hidden !important;
 		}
